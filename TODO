@@ -1,0 +1,1 @@
+Ver como agregar un acceso a session manager en un ingres de aws equivalente a com.amazonaws.us-east-1.ec2-instance-connect para evitar el CIDR 0.0.0.0 o el ingreso manual
